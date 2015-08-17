@@ -1,3 +1,5 @@
+## Test cases courtesy of Thiago Kurovski
+
 # Check if creating a cacheMatrix and
 # getting its content works fine
 x <- matrix(rnorm(1000000), nrow = 1000)
